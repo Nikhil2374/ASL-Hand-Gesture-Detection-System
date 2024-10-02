@@ -12,7 +12,7 @@ Handsign is a simple AI-based hand gesture recognition that translates a hand po
 
 `#dohackathon` `#madewithTFJS`
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
+
 
 ## [See Demo](https://handsign-tensorflow.vercel.app)
 
